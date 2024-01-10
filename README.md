@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning simple frontend/backend stuff with HTML/Node + JS
 
-💻 More info: check out [my website](https://qwertya15.repl.co)            
+💻 More info: (in progress...)            
 
 </pre>
 <!---
