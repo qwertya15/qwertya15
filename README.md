@@ -1,13 +1,14 @@
 <pre align="center">
  
-👋 Hi, I’m @qwertya15:                                                     
+👋 Hi, I’m @qwertya15:                                                       
 
-👀 I’m interested in coding (mostly web dev)                               
+👀 I'm interested in coding (javascript, python, lua) and learning new things
 
-🌱 I’m currently learning simple frontend/backend stuff with HTML/Node + JS
+🌱 I'm currently making cool stuff with python                               
 
-💻 More info: (in progress...)                                              
+💻 More info: (in progress...)                                               
 
+ (updated 2024/07/13)
 </pre>
 <!---
 qwertya15/qwertya15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
